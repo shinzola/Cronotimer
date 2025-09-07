@@ -53,7 +53,7 @@ git clone (https://github.com/shinzola/Cronotimer.git)
 2. Entre na pasta do projeto:
 
 ```bash
-cd cronometro_mobile2
+cd Cronotimer
 ```
 
 3. Instale as dependências:
